@@ -1,0 +1,2 @@
+# CustomNameGenerator
+Custom Hostname Generator
